@@ -12,7 +12,7 @@ summa = 0
 i = 1
 
 while i <= n:
-    summa = summa + 1
+    summa = summa + i
     i = i + 1
     # TODO: pieskaiti i summai un palielini i par vienu
 
